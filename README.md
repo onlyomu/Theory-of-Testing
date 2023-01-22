@@ -2,7 +2,7 @@
 ### Task:
 Specify which test cases should be included in the regression set that manual testers will run.
 
-### Soltuion:
+### Solution:
 **[Regression](https://docs.google.com/spreadsheets/d/1zqXRpun6ixYklEzdcJpg9gNBogedEUMPbqZVU1ZMbN0/edit?usp=sharing)**
 
 ### Task:
